@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aziz Furkan Talşık</h1>
-<h3 align="center">I'm a Jr.Data Scientist And Ai Software Developer.</h3>
+<h3 align="center">I'm a Jr.Data Scientist And AI Software Developer.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vielashine" alt="vielashine" /></a> </p>
 
