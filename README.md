@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aziz Furkan Talşık</h1>
 <h3 align="center">I'm a Jr.Data Scientist And Ai Software Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=quanfr&label=Profile%20views&color=21b80c&style=flat" alt="quanfr" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quanfr" alt="quanfr" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vielashine" alt="vielashine" /></a> </p>
 
 - 🌱 I’m currently learning **Languages and libraries used in AI such as Tensorflow, OpenCV, JAVA, Matlab, Pandas .**
 
