@@ -4,9 +4,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vielashine" alt="vielashine" /></a> </p>
 
 - 🌱 I’m currently learning **Languages and libraries used in AI such as Tensorflow, OpenCV, JAVA, Matlab, Pandas .**
-
-- 👨‍💻 My personal portfolio site [www.furkantalsik.com.tr](www.furkantalsik.com.tr)
-
 - 📫 How to reach me **talsikazizfurkan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
